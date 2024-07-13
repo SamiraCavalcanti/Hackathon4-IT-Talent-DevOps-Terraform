@@ -1,4 +1,4 @@
 output "instance_ip" {
-  description = "Endereco IP publico da minha instancia"
-  value       = aws_instance.example.public_ip
+  description = "Public IP of the EC2 instance"
+  value       = aws_instance.my_ec2.public_ip
 }
