@@ -1,5 +1,5 @@
 # Hackaton-IT-Talent-DevOps-4
-# Hackaton-IT-Talent-DevOps-4
+
 
 # Terraform AWS EC2
 
@@ -46,4 +46,7 @@ Este repositório contém arquivos Terraform para criar uma instância EC2 na AW
 
 
 
+## Aluna:
+
+![Samira Cavalcanti](https://img.shields.io/badge/-Samira%20Cavalcanti-blueviolet?style=for-the-badge)
 
